@@ -1,0 +1,28 @@
+[
+  {
+    "imperial": [
+      {
+        "id": "in",
+        "fullname": "Inch",
+        "equivalentToMeter": { "m": 0.0254 },
+        "equivalentToInch": { "in": 1 }
+      },
+      { "id": "ft", "fullname": "Foot", "equivalentToInch": { "in": 12 } }
+    ]
+  },
+  {
+    "metric": [
+      {
+        "id": "m",
+        "fullname": "Meter",
+        "equivalentToInch": { "in": 39.3701 },
+        "equivalentToMeter": { "m": 1 }
+      },
+      {
+        "id": "mm",
+        "fullname": "Millimeter",
+        "equivalentToMeter": { "m": 0.001 }
+      }
+    ]
+  }
+]
